@@ -61,13 +61,10 @@ The app sorts results by newest uploads.
 
 If the API key is missing or invalid, the app will log errors.
 
-Credits:
-YouTube Data API provided by Google
+## Credits
 
-Tkinter GUI framework included with Python
-
-dotenv for environment variable management
-
-google-api-python-client library for YouTube API access
-
-Inspired by community examples and open-source projects
+-YouTube Data API provided by Google
+-Tkinter GUI framework included with Python
+-dotenv for environment variable management
+-google-api-python-client library for YouTube API access
+-Inspired by community examples and open-source projects
